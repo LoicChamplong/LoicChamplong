@@ -31,4 +31,4 @@ Power BI ![powerbi](https://loicchamplong.com/wp-content/uploads/2020/09/powerbi
 
 ## 📫 How to reach me:
 
-You can contact see my full detailed contacts on my [portfolio](https://loicchamplong.com). You may also wish to connect with me on [linkedin](https://www.linkedin.com/in/loicchamplong/?locale=en_US) and write to me.
+You can find my contact details on my [portfolio](https://loicchamplong.com). You may also wish to connect with me on [linkedin](https://www.linkedin.com/in/loicchamplong/?locale=en_US) and write to me.
