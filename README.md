@@ -1,6 +1,6 @@
 # Hi there 👋
 
-![header](https://loicchamplong.com/wp-content/uploads/2020/09/header_git.png)
+![header](https://loicchamplong.com/wp-content/uploads/2020/09/githeader.png)
 
 # 🔭 Most recent projects ...
 
