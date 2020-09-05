@@ -1,4 +1,4 @@
-# Hi there 👋
+# Hi there / 你好 👋
 
 ![header](https://loicchamplong.com/wp-content/uploads/2020/09/githead.png)
 
