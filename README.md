@@ -2,8 +2,6 @@
 
 ![header](https://loicchamplong.com/wp-content/uploads/2020/09/header_git.png)
 
-# 🚧 I’m currently working on ...
-
 # 🔭 Most recent projects ...
 
 - [Anlysis of the world population in 2015](https://github.com/LoicChamplong/Data-Analysis-SQL/tree/master/Analysis_of_the_2015_World_population) ![sql1](https://loicchamplong.com/wp-content/uploads/2020/09/SQL.png)
