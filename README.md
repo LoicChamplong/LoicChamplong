@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**LoicChamplong/LoicChamplong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a professional in Marketing and Sales. I have a very international background and I have built my first experiences abroad in international sales and management. I am used to living in different countries and speak different languages. These situations made me to develop an analytical mindset where I had to quickly adjust myself to a new context in which I was not familiar with. I have always used data to help myself understand the business context that surrounds me. Today, I still use it to make better strategic decisions. I believe that business intelligence is the key to make fairer decisions and create a better world. I tend to use it in my daily life and at work. I use different tools from Excel to Python. I specialised in analytics, marketing and sales wise.
 
 Here are some ideas to get you started:
 
